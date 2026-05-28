@@ -1,4 +1,4 @@
-# 🏏 IPL Data Analysis (2008–2025)
+# IPL Data Analysis (2008–2025)
 Exploratory data analysis on 1100+ IPL matches to uncover what actually decides a match outcome.
 
 ## Questions Answered
@@ -36,7 +36,7 @@ Download the dataset from Kaggle: [IPL Ball-by-Ball Dataset]https://www.kaggle.c
 > The dataset is not included in this repo due to size constraints (>100MB). Download and place the CSV in the same directory as the notebook before running.
 
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repo
 2. Download the dataset from Kaggle (link above)
 3. Open `IPL_Analysis.ipynb` in Jupyter Notebook or Google Colab
@@ -45,7 +45,7 @@ Download the dataset from Kaggle: [IPL Ball-by-Ball Dataset]https://www.kaggle.c
 
 ---
 
-## 📌 Key Findings
+## Key Findings
 
 | Question | Finding |
 |---|---|
@@ -56,7 +56,7 @@ Download the dataset from Kaggle: [IPL Ball-by-Ball Dataset]https://www.kaggle.c
 
 ---
 
-## 👤 Author
+##  Author
 
 **Arnav Mhatre**  
 B.E. Mathematics & Computing — BITS Pilani Hyderabad  
