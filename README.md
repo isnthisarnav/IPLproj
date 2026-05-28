@@ -20,7 +20,7 @@ Exploratory data analysis on 1100+ IPL matches to uncover what actually decides 
 - Average combined match score (both innings) tracked per season
 - Line chart showing scoring trends from 2008 to 2025
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
